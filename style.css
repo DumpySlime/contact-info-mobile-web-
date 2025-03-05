@@ -36,7 +36,8 @@ table th {
     /* Behave like a "row" */
     table td {
         display: block;
-        text-align: right;
+        text-align: right;        
+        border: 1px solid #000000;
        /* border-bottom: 0px;*/
     }
 
